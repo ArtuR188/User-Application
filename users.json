@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "username": "user1",
+      "password": "password1",
+      "token": "your-generated-token-here"
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "password": "password2",
+      "token": "another-generated-token-here"
+    }
+  ]
+  
